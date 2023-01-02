@@ -42,6 +42,7 @@ hr{
 
 .applePie {
     display: flex;
+    margin-left: 10px;
 }
 
 h2 {
