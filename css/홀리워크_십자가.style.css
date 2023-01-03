@@ -1,9 +1,61 @@
-.progress {
-    height: 50vw;
-    width: 70%;
+.process_img {
+    width: 60%;
+    margin-left: 20%;
 }
 
-img{
-    height: 50vw;
-    width: 70%;
+.process_img_1 {
+    width: 60%;
+    margin-left: 20%;
+    
+}
+
+.process_text {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 1vh;
+}
+
+.process {
+    margin: 5vh auto 6vh auto;
+}
+
+h3 {
+    font-size: 40px;
+    margin-left: 20vw;
+    width: 50%;
+}
+
+.head > a {
+    text-decoration-line : none;
+    margin-left: 32vw;
+    color: black;
+    width: 50%;
+    margin-top: 8vh;
+    font-size: 20px;
+}
+
+.head {
+    display: flex;
+}
+
+.bottom_nav {
+    display: flex;
+}
+
+.bottom_nav > p{
+    display: flex;
+    width: 33.3333%;
+    padding-left: 14vw;
+    font-size: 20px;
+}
+
+.bottom_nav > p > a {
+    color: white;
+    text-decoration-line : none;
+    border: 1px solid black;
+    width: 6vw;
+    height: 4vh;
+    text-align: center;
+    line-height: 4vh;
+    background-color: black;
 }
