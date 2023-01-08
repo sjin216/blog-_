@@ -5,8 +5,14 @@
     font-style: normal;
 }
 
+@import url('https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
+
 *{
     font-family: 'Humanbumsuk';
+}
+
+p {
+    font-size: 20px;
 }
 
 body {
@@ -102,5 +108,16 @@ body {
 }
 
 .main_text {
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 }
+
+h3{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 80px;
+}
+
+
+

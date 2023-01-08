@@ -1,0 +1,42 @@
+.intro_img{
+    background-image: url('../photo/정책제안.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 99.87%;
+    border: 1px solid;
+    height: 90vh;
+}
+
+h2 {
+    margin-top: 75vh;
+    font-size: 70px;
+    margin-left: 3vw;
+}
+
+h3 {
+    margin-left: 7vw;
+}
+
+.intro > p {
+    margin-left: 7vw;
+    margin-right: 7vw;
+    font-size: 20px;
+    text-align: justify;
+}
+/* 
+.created > p{
+    margin-bottom: 10vh;
+} */
+
+.created > p > a{
+    color: black;
+    text-decoration-line: none;
+
+    font-size: 20px;
+    margin-left: 7vw;
+}
+
+.main_text {
+    
+}

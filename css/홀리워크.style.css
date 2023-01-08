@@ -3,9 +3,9 @@
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
-    width: 100%;
     height: 49vw;
-    border:1px solid ;
+    width: 99.87%;
+    border: 1px solid;
 }
 
 h2 {
@@ -15,22 +15,50 @@ h2 {
    margin-top: 42vw;
 }
 
-.img {
-    width: 300px;
-    margin: auto 6vw auto 6vw;
+.img1{
+    width: 200px;
 }
 
-.created{
-    border:1px solid ;
+.img2{
+    width: 400px;
 }
+
+.img3{
+    width: 300px;
+}
+
 
 .img_text {
-    display:inline;
-    margin: auto 14vw auto 13.5vw;
     font-size: 30px;
 }
 
 .img_text > a{
     color: black;
     text-decoration-line: none;
+}
+
+h3 {
+    margin-left: 7vw;
+}
+
+.intro > p {
+    margin-left: 7vw;
+    margin-right: 7vw;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.created{
+    display: flex;
+    text-align: center;
+    padding-left: 9vw;
+}
+
+.created_2{
+    margin: auto 10vw 0 10vw;
+    margin-top: auto;
+}
+
+.created_3{
+    margin-top: auto;
 }
