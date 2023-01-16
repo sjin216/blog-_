@@ -1,27 +1,27 @@
-.process_img {
-    width: 60%;
-    margin-left: 20%;
+.intro_img{
+    background-image: url('../photo/홀리워크.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 49vw;
+    width: 99.87%;
+    border: 1px solid;
 }
 
-.process_text {
-    text-align: center;
-    font-size: 25px;
-    margin-top: 1vh;
+h1 {
+    margin-top: 17px;
+    margin-left: 15px;
 }
-
-.process {
-    margin: 5vh auto 6vh auto;
-}
-
 h3 {
+    margin:5vh;
     font-size: 40px;
-    margin-left: 20vw;
+    margin-left: 19.5vw;
     width: 50%;
 }
 
 .head > a {
     text-decoration-line : none;
-    margin-left: 32vw;
+    margin-left: 30vw;
     color: black;
     width: 50%;
     margin-top: 8vh;
@@ -34,6 +34,7 @@ h3 {
 
 .bottom_nav {
     display: flex;
+    margin-top: 2vh;
 }
 
 .bottom_nav > p{
@@ -52,4 +53,16 @@ h3 {
     text-align: center;
     line-height: 4vh;
     background-color: black;
+}
+
+
+#carouselExampleDark img {
+    height: 650px;
+    object-fit: contain;
+}
+
+.carousel-caption {
+    background: rgba(255,255,255,0.7);
+    width: 100vw;
+    left: 0;
 }

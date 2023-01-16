@@ -1,5 +1,5 @@
 .intro_img{
-    background-image: url('../photo/정책제안.png');
+    background-image: url('https://www.newsnjoy.or.kr/news/photo/201901/222097_78425_4335.jpg');
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
@@ -12,6 +12,7 @@ h2 {
     margin-top: 75vh;
     font-size: 70px;
     margin-left: 3vw;
+    color: white;
 }
 
 h3 {

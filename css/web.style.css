@@ -1,0 +1,45 @@
+.intro_img{
+    background-image: url('../photo/인트라넷.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 49vw;
+    width: 99.87%;
+    border: 1px solid;
+}
+
+h2 {
+    color: rgb(0, 0, 0); 
+    font-size: 80px;
+    margin-left: 2vw;
+    margin-top: 42vw;
+ }
+
+ h3 {
+     margin-left: 7vw;
+ }
+ 
+ .intro > p {
+     margin-left: 7vw;
+     margin-right: 7vw;
+     font-size: 20px;
+     text-align: justify;
+ }
+
+
+.created{
+    display: flex;
+    text-align: center;
+}
+
+.img_text > a{
+    text-decoration-line : none;
+    color: black;
+    padding: 2vh 3vw 2vh 3vw;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+.img_text{
+    margin: auto 18vw 4vh 18vw;
+}

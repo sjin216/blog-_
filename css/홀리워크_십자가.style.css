@@ -1,33 +1,18 @@
-.process_img {
-    width: 60%;
-    margin-left: 20%;
-}
-
-.process_img_1 {
-    width: 60%;
-    margin-left: 20%;
-    
-}
-
-.process_text {
-    text-align: center;
-    font-size: 25px;
-    margin-top: 1vh;
-}
-
-.process {
-    margin: 5vh auto 6vh auto;
+h1 {
+    margin-top: 17px;
+    margin-left: 15px;
 }
 
 h3 {
     font-size: 40px;
-    margin-left: 20vw;
     width: 50%;
+    margin:5vh;
+    margin-left: 16.5vw;
 }
 
 .head > a {
     text-decoration-line : none;
-    margin-left: 32vw;
+    margin-left: 38.5vw;
     color: black;
     width: 50%;
     margin-top: 8vh;
@@ -40,6 +25,7 @@ h3 {
 
 .bottom_nav {
     display: flex;
+    margin-top: 2vh;
 }
 
 .bottom_nav > p{
@@ -58,4 +44,20 @@ h3 {
     text-align: center;
     line-height: 4vh;
     background-color: black;
+}
+
+#carouselExampleDark img {
+    height: 650px;
+    object-fit: contain;
+}
+
+#carouselExampleDark img {
+    height: 650px;
+    object-fit: contain;
+}
+
+.carousel-caption {
+    background: rgba(255,255,255,0.7);
+    width: 100vw;
+    left: 0;
 }
